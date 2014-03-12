@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <Contents>
-    <Article Slug="i-should-be-the-replace-me-slug" Title="Me Should Be Replace" URL="ReplaceMe" />
+    <Article Slug="replace-me-plz" Title="Me Should Be Replace" URL="some-new-url" />
     <Section Title="How doth {{the}} I do" URL="how-to" />
-    <Article Slug="site-snip-bug-me-doodah" Title="Snippet Bug Example" URL="SiteSnippetBugExample" />
+    <Article Slug="site-snippet-bug-example" Title="Snippet Bug Example" />
     <Section Title="Same Sub 1" URL="same-subfolder-1">
         <Section Title="Equality 1" URL="equality" />
         <Section Title="Foo" URL="foo" />
@@ -18,5 +18,5 @@
             </Section>
         </Section>
     </Section>
-    <Article Slug="some-article-slug-woot" Title="Some Article (Combinatorics)" URL="some-article" />
+    <Article Slug="slug-of-some-article" Title="Some Article (Combinatorics)" URL="some-article" />
 </Contents>
